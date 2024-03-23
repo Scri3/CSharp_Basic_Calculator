@@ -1,2 +1,2 @@
 # C# Basic Calculator
-A basic (four operations) calculator written in C#.
+A basic (four operations) calculator with UI written in C#.
