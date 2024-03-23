@@ -1,0 +1,11 @@
+E:\VS projects\Sessions Training\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\VS projects\Sessions Training\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\VS projects\Sessions Training\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\VS projects\Sessions Training\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+E:\VS projects\Sessions Training\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.SuggestedBindingRedirects.cache
+E:\VS projects\Sessions Training\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.calculator.resources
+E:\VS projects\Sessions Training\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\VS projects\Sessions Training\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\VS projects\Sessions Training\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\VS projects\Sessions Training\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\VS projects\Sessions Training\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
