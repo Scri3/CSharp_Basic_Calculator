@@ -1,1 +1,2 @@
-# CSharp_Basic_Calculator
+# C# Basic Calculator
+A basic (four operations) calculator written in C#.
